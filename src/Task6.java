@@ -8,7 +8,7 @@ public class Task6
         int x = in.nextInt();
         System.out.println("Введите число y");
         int y = in.nextInt();
-        System.out.println("Введите число y");
+        System.out.println("Введите число z");
         int z = in.nextInt();
         int a = (x+y+z)/3;
         System.out.println("Среднее арифмитическое введенных чисел " + a);
