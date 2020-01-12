@@ -16,8 +16,8 @@ public class Task10 {
             }
         }
         System.out.println("Первая строка*3 ");
-            for (j = 0; j < matrix[0].length; j++) {
-                System.out.println(matrix[0][j]*3);
-            }
+        for (j = 0; j < matrix[0].length; j++) {
+            System.out.println(matrix[0][j] * 3);
         }
     }
+}

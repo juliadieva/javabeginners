@@ -13,7 +13,7 @@ public class Task9 {
         }
         System.out.println("Вывод массива *2");
         for (int i = 0; i < myList.length; i++) {
-            System.out.println(myList[i]*2);
+            System.out.println(myList[i] * 2);
 
         }
 
