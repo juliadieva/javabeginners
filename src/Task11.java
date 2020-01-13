@@ -5,6 +5,6 @@ public class Task11 {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите текст");
         String t = in.nextLine();
-        System.out.println(t);
+        System.out.println("Вы ввели: \n" + t);
     }
 }

@@ -5,7 +5,7 @@ public class Task12 {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите текст");
         String t = in.nextLine();
-        System.out.println(t.replaceAll(" ",
+        System.out.println("Ваш текст без пробелов: \n" + t.replaceAll(" ",
                 ""));
     }
 }
